@@ -69,6 +69,7 @@
 
 - LinkedIn: https://www.linkedin.com/in/raja-rajeshwar-bathini-8b4661327?utm_source=share_via&utm_content=profile&utm_medium=member_android
 - Email: rajarajeshwar07@gmail.com
+- - Resume: [View Resume](https://github.com/RajaRajeshwar1204/RajaRajeshwar1204/blob/main/Resume.pdf)
 
 <!--
 
