@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:rajarajeshwar07@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="- Resume: https://github.com/RajaRajeshwar1204/RajaRajeshwar1204/blob/main/Resume.pdf"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readdotcv&logoColor=white"></a>
 </p>
 
@@ -69,7 +69,7 @@
 
 - LinkedIn: https://www.linkedin.com/in/raja-rajeshwar-bathini-8b4661327?utm_source=share_via&utm_content=profile&utm_medium=member_android
 - Email: rajarajeshwar07@gmail.com
-- - Resume: [View Resume](https://github.com/RajaRajeshwar1204/RajaRajeshwar1204/blob/main/Resume.pdf)
+- Resume: (https://github.com/RajaRajeshwar1204/RajaRajeshwar1204/blob/main/Resume.pdf)
 
 <!--
 
